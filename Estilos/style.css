@@ -1,7 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
 h1{
     color: blue;
     
 }
 h2{
-    color: blueviolet;
+    color: rgb(128, 48, 204);
+}
+image{
+    width: 350px;
+}
+div{
+    width: 450px;
+    padding: auto;
+    border-color: blue;
+    margin: inline 10px;
 }
